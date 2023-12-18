@@ -14,6 +14,7 @@
   <img align="center" alt="André-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="André-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="André-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="André-Flutter" height="30" width="40" src="https://miro.medium.com/v2/1*szmA2b5DQS_U5wAGgHiPQg.png">
           
           
 </div>
